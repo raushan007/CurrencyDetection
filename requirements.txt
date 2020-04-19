@@ -13,3 +13,4 @@ gevent
 opencv-python
 gTTs
 requests  
+libsm6
