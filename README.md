@@ -1,2 +1,1 @@
-# CurrencyDetection
-final year project
+# Deployment-Deep-Learning-Model
