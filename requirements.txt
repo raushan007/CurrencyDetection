@@ -13,7 +13,3 @@ gevent
 opencv-python
 gTTs
 requests  
-libsm6
-libxrender1
-libfontconfig1
-libice6
