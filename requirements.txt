@@ -13,4 +13,4 @@ gevent
 opencv-python
 gTTs
 requests  
-opencv-contrib-python
+
